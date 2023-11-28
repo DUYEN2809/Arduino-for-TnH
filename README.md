@@ -1,5 +1,4 @@
 # Arduino-for-TnH
-<<<<<<< HEAD
 # Hướng dẫn cài đặt và sử dụng Arduino-for-TnH
 
 ## Cài đặt
@@ -40,4 +39,3 @@
 
 =======
 # Arduino-for-TnH
->>>>>>> 006f3cf96d3134053f2bfd9aedbd17c1e01f01c2
