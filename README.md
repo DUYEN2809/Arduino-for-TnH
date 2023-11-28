@@ -1,4 +1,5 @@
 # Arduino-for-TnH
+<<<<<<< HEAD
 # Hướng dẫn cài đặt và sử dụng Arduino-for-TnH
 
 ## Cài đặt
@@ -37,3 +38,6 @@
 	Truy cập trình duyệt web và điều hướng đến http://localhost:8501 để xem ứng dụng.
 
 
+=======
+# Arduino-for-TnH
+>>>>>>> 006f3cf96d3134053f2bfd9aedbd17c1e01f01c2
